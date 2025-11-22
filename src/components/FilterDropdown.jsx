@@ -1,5 +1,5 @@
 import React from 'react';
-import filterIcon from '../assets/test_filter.svg';
+import filterIcon from '../assets/test_Filter.svg';
 
 const FilterDropdown = ({ showFilters, toggleFilters }) => {
   return (
